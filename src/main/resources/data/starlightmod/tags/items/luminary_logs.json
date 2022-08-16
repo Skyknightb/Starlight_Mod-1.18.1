@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "starlightmod:luminary_log",
+    "starlightmod:luminary_wood",
+    "starlightmod:stripped_luminary_log",
+    "starlightmod:stripped_luminary_wood"
+  ]
+}

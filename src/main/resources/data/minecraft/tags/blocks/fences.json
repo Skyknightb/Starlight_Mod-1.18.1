@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "starlightmod:stellar_fence",
+    "starlightmod:cerium_fence",
+    "starlightmod:aquellium_fence",
+    "starlightmod:satella_fence",
+    "starlightmod:pyrellium_fence",
+    "starlightmod:runitite_fence",
+    "starlightmod:aether_fence",
+    "starlightmod:zoe_fence"
+  ]
+}

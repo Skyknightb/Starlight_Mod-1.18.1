@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "side": "starlightmod:block/satella_raw",
+    "bottom": "starlightmod:block/satella_raw",
+    "top": "starlightmod:block/satella_raw"
+  }
+}

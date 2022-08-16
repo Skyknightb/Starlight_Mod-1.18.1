@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:black_dahlia"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:blackdahlia_seeds"
+  }
+}

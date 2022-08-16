@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:pyre_crystal"
+    },
+    "title": "Starlight",
+    "description": "The stars have power, can you harness it?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "starlightmod:textures/block/stellar_raw.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:stellar"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:stellar_axe",
+      "starlightmod:stellar_pickaxe",
+      "starlightmod:stellar_shovel",
+      "starlightmod:stellar_hoe",
+      "starlightmod:stellar_helmet",
+      "starlightmod:stellar_chestplate",
+      "starlightmod:stellar_leggings",
+      "starlightmod:stellar_boots",
+      "starlightmod:stellar_sword"
+    ],
+    "experience": 100
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "$",
+    "x"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:cerium"
+    },
+    "$": {
+      "item": "starlightmod:cerium_raw"
+    },
+    "x": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "starlightmod:cerium_sword"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:pyrellium"
+    },
+    "title": "pyrellium",
+    "description": "Symbolizes protection, abundance and confidence",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:pyrellium"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:pyrellium_axe",
+      "starlightmod:pyrellium_pickaxe",
+      "starlightmod:pyrellium_shovel",
+      "starlightmod:pyrellium_hoe",
+      "starlightmod:pyrellium_helmet",
+      "starlightmod:pyrellium_chestplate",
+      "starlightmod:pyrellium_leggings",
+      "starlightmod:pyrellium_boots",
+      "starlightmod:pyrellium_sword"
+    ],
+    "experience": 100
+  }
+}

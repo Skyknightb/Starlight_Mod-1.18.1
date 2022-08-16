@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:satella_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:satella",
+    "count": 9
+  }
+}

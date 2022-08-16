@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:aether"
+  },
+  "result": "starlightmod:aether_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

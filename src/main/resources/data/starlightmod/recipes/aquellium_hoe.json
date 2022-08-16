@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    " x",
+    " x"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:aquellium"
+    },
+    "x": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "starlightmod:aquellium_hoe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "starlightmod:pyrellium_block"
+  },
+  "result": "starlightmod:pyrellium",
+  "experience": 1.5,
+  "cookingtime": 300
+}

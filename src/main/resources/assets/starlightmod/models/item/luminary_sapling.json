@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "starlightmod:block/luminary_sapling"
+  }
+}

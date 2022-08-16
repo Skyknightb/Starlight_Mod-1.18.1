@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:zoe"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:zoe_button"
+  }
+}

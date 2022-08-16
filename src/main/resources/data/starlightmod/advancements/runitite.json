@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:runitite"
+    },
+    "title": "runitite",
+    "description": "The ones who came before also explored the nether, just like you",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:runitite"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:runitite_axe",
+      "starlightmod:runitite_pickaxe",
+      "starlightmod:runitite_shovel",
+      "starlightmod:runitite_hoe",
+      "starlightmod:runitite_helmet",
+      "starlightmod:runitite_chestplate",
+      "starlightmod:runitite_leggings",
+      "starlightmod:runitite_boots",
+      "starlightmod:runitite_sword"
+    ],
+    "experience": 100
+  }
+}

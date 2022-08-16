@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "starlightmod:block/pyrellium_slab_top"
+    },
+    "type=bottom": {
+      "model": "starlightmod:block/pyrellium_slab"
+    },
+    "type=double": {
+      "model": "starlightmod:block/pyrellium_raw"
+    }
+  }
+}

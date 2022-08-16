@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:pyrellium_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:pyrellium",
+    "count": 9
+  }
+}

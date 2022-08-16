@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "#x#"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:aether_raw"
+    },
+    "x": {
+      "item": "starlightmod:aether"
+    }
+  },
+  "result": {
+    "item": "starlightmod:aether_fence"
+  }
+}

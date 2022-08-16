@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "starlightmod:block/aether_raw",
+    "bottom": "starlightmod:block/aether_raw",
+    "top": "starlightmod:block/aether_raw"
+  }
+}

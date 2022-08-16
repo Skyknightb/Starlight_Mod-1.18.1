@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x#x",
+    "x#x"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:satella_raw"
+    },
+    "x": {
+      "item": "starlightmod:satella"
+    }
+  },
+  "result": {
+    "item": "starlightmod:satella_fence_gate"
+  }
+}

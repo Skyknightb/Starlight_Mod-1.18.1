@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:luminary_planks"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:luminary_button"
+  }
+}

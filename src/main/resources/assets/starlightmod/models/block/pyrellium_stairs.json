@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "side": "starlightmod:block/pyrellium_raw",
+    "bottom": "starlightmod:block/pyrellium_raw",
+    "top": "starlightmod:block/pyrellium_raw"
+  }
+}

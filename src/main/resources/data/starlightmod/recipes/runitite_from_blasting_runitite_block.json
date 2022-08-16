@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "starlightmod:runitite_block"
+  },
+  "result": "starlightmod:runitite",
+  "experience": 1.5,
+  "cookingtime": 300
+}

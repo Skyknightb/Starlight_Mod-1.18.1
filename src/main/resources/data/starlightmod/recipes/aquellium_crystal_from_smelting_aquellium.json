@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:aquellium"
+  },
+  "result": "starlightmod:aquellium_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

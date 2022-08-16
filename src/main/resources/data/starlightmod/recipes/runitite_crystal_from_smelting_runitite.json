@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:runitite"
+  },
+  "result": "starlightmod:runitite_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

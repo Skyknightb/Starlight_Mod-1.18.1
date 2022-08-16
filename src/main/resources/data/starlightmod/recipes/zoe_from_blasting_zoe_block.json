@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "starlightmod:zoe_block"
+  },
+  "result": "starlightmod:zoe",
+  "experience": 2,
+  "cookingtime": 400
+}

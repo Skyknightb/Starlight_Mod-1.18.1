@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:pyrellium"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:pyrellium_button"
+  }
+}

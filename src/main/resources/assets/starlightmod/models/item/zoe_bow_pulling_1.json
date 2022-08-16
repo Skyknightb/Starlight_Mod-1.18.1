@@ -1,0 +1,6 @@
+{
+  "parent": "starlightmod:item/zoe_bow",
+  "textures": {
+    "layer0": "starlightmod:item/zoe_bow_pulling_1"
+  }
+}

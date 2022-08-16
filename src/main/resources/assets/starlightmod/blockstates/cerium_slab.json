@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "starlightmod:block/cerium_slab_top"
+    },
+    "type=bottom": {
+      "model": "starlightmod:block/cerium_slab"
+    },
+    "type=double": {
+      "model": "starlightmod:block/cerium_raw"
+    }
+  }
+}

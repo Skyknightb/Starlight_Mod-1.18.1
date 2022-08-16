@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "side": "starlightmod:block/aquellium_raw",
+    "bottom": "starlightmod:block/aquellium_raw",
+    "top": "starlightmod:block/aquellium_raw"
+  }
+}

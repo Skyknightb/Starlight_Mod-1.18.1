@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "## "
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:stellar_raw"
+    }
+  },
+  "result": {
+    "item": "starlightmod:stellar_pressure_plate"
+  }
+}

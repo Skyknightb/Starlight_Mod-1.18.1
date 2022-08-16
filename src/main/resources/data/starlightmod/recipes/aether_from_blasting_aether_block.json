@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "starlightmod:aether_block"
+  },
+  "result": "starlightmod:aether",
+  "experience": 2,
+  "cookingtime": 400
+}

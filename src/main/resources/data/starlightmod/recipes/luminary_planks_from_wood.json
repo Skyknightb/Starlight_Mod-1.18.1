@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:luminary_wood"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:luminary_planks",
+    "count": 4
+  }
+}

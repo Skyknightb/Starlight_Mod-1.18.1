@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "starlightmod:stellar_wall",
+    "starlightmod:cerium_wall",
+    "starlightmod:aquellium_wall",
+    "starlightmod:satella_wall",
+    "starlightmod:pyrellium_wall",
+    "starlightmod:runitite_wall",
+    "starlightmod:aether_wall",
+    "starlightmod:zoe_wall"
+  ]
+}

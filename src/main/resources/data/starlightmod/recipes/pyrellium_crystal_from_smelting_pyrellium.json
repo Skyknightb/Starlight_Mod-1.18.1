@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:pyrellium"
+  },
+  "result": "starlightmod:pyrellium_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

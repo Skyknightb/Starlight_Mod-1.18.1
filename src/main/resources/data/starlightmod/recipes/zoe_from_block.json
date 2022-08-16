@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:zoe_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:zoe",
+    "count": 9
+  }
+}

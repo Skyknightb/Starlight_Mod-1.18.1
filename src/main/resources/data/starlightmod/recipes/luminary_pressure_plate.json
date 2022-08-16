@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:luminary_planks"
+    },
+    {
+      "item": "starlightmod:luminary_planks"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:luminary_pressure_plate"
+  }
+}

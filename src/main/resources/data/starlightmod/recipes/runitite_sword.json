@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "$",
+    "x"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:runitite"
+    },
+    "$": {
+      "item": "starlightmod:runitite_raw"
+    },
+    "x": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "starlightmod:runitite_sword"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "starlightmod:block/starflower_stage0"
+    },
+    "age=1": {
+      "model": "starlightmod:block/starflower_stage1"
+    },
+    "age=2": {
+      "model": "starlightmod:block/starflower_stage2"
+    },
+    "age=3": {
+      "model": "starlightmod:block/starflower_stage3"
+    }
+  }
+}

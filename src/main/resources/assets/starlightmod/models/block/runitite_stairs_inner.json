@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "side": "starlightmod:block/runitite_raw",
+    "bottom": "starlightmod:block/runitite_raw",
+    "top": "starlightmod:block/runitite_raw"
+  }
+}

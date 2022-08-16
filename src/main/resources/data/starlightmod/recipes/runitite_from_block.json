@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:runitite_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:runitite",
+    "count": 9
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:runitite"
+    },
+    "title": "Runic Armour",
+    "description": "The old art of runesmithing",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:runitite_helmet",
+              "starlightmod:runitite_chestplate",
+              "starlightmod:runitite_leggings",
+              "starlightmod:runitite_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

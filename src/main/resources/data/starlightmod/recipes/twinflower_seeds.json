@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:twinflower"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:twinflower_seeds"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:zoe"
+  },
+  "result": "starlightmod:zoe_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

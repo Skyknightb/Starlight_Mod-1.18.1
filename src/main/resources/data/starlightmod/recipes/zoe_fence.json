@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "#x#"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:zoe_raw"
+    },
+    "x": {
+      "item": "starlightmod:zoe"
+    }
+  },
+  "result": {
+    "item": "starlightmod:zoe_fence"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "starlightmod:block/aquellium_slab_top"
+    },
+    "type=bottom": {
+      "model": "starlightmod:block/aquellium_slab"
+    },
+    "type=double": {
+      "model": "starlightmod:block/aquellium_raw"
+    }
+  }
+}

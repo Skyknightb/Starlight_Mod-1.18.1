@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "side": "starlightmod:block/stellar_raw",
+    "bottom": "starlightmod:block/stellar_raw",
+    "top": "starlightmod:block/stellar_raw"
+  }
+}

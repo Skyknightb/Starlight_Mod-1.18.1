@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:zoe"
+    },
+    "title": "zoe",
+    "description": "The ones who came before call it, MASS EFFECT",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:zoe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:zoe_axe",
+      "starlightmod:zoe_pickaxe",
+      "starlightmod:zoe_shovel",
+      "starlightmod:zoe_hoe",
+      "starlightmod:zoe_helmet",
+      "starlightmod:zoe_chestplate",
+      "starlightmod:zoe_leggings",
+      "starlightmod:zoe_boots",
+      "starlightmod:zoe_sword"
+    ],
+    "experience": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:satella"
+    },
+    "title": "Satella",
+    "description": "The ones who came before reached the planet's core, this is the result",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:satella"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:satella_axe",
+      "starlightmod:satella_pickaxe",
+      "starlightmod:satella_shovel",
+      "starlightmod:satella_hoe",
+      "starlightmod:satella_helmet",
+      "starlightmod:satella_chestplate",
+      "starlightmod:satella_leggings",
+      "starlightmod:satella_boots",
+      "starlightmod:satella_sword"
+    ],
+    "experience": 100
+  }
+}

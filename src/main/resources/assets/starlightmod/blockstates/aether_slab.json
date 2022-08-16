@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "starlightmod:block/aether_slab_top"
+    },
+    "type=bottom": {
+      "model": "starlightmod:block/aether_slab"
+    },
+    "type=double": {
+      "model": "starlightmod:block/aether_raw"
+    }
+  }
+}

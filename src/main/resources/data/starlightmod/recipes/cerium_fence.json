@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "#x#"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:cerium_raw"
+    },
+    "x": {
+      "item": "starlightmod:cerium"
+    }
+  },
+  "result": {
+    "item": "starlightmod:cerium_fence"
+  }
+}

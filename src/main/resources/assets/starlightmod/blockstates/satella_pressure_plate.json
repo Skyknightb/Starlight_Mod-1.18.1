@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "starlightmod:block/satella_pressure_plate"
+    },
+    "powered=true": {
+      "model": "starlightmod:block/satella_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:stellar"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:stellar_button"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:stellar_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:stellar",
+    "count": 9
+  }
+}

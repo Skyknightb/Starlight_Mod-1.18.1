@@ -1,0 +1,6 @@
+{
+  "parent": "starlightmod:item/runitite_bow",
+  "textures": {
+    "layer0": "starlightmod:item/runitite_bow_pulling_2"
+  }
+}

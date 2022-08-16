@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "bottom": "starlightmod:block/luminary_door_bottom",
+    "top": "starlightmod:block/luminary_door_top"
+  }
+}

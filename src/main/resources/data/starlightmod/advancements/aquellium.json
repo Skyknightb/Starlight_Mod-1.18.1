@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "starlightmod:aquellium"
+    },
+    "title": "Aquellium",
+    "description": "Water reflects the light that comes from the stars!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "starlightmod:starlightmod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "starlightmod:aquellium"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starlightmod:aquellium_axe",
+      "starlightmod:aquellium_pickaxe",
+      "starlightmod:aquellium_shovel",
+      "starlightmod:aquellium_hoe",
+      "starlightmod:aquellium_helmet",
+      "starlightmod:aquellium_chestplate",
+      "starlightmod:aquellium_leggings",
+      "starlightmod:aquellium_boots",
+      "starlightmod:aquellium_sword"
+    ],
+    "experience": 100
+  }
+}

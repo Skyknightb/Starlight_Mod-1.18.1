@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:aether"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:aether_button"
+  }
+}

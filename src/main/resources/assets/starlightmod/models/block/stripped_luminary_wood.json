@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "starlightmod:block/stripped_luminary_log",
+    "end": "starlightmod:block/stripped_luminary_log"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:satella_raw"
+    }
+  },
+  "result": {
+    "item": "starlightmod:satella_wall"
+  }
+}

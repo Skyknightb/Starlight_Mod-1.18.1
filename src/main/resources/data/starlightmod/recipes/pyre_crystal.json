@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#x#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:stellar_raw"
+    },
+    "x": {
+      "item": "starlightmod:pyrellium_raw"
+    }
+  },
+  "result": {
+    "item": "starlightmod:pyre_crystal"
+  }
+}

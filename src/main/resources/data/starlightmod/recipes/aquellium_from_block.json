@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:aquellium_raw"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:aquellium",
+    "count": 9
+  }
+}

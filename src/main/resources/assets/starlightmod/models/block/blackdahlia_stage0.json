@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "starlightmod:block/blackdahlia_stage0"
+  }
+}

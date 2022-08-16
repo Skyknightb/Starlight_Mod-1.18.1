@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "starlightmod:block/starflower_stage1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starlightmod:satella"
+    }
+  ],
+  "result": {
+    "item": "starlightmod:satella_button"
+  }
+}

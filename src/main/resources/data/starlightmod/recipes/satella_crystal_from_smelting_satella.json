@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "starlightmod:satella"
+  },
+  "result": "starlightmod:satella_crystal",
+  "experience": 2,
+  "cookingtime": 500
+}

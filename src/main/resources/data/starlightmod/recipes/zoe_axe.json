@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "#x",
+    " x"
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:zoe"
+    },
+    "x": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "starlightmod:zoe_axe"
+  }
+}

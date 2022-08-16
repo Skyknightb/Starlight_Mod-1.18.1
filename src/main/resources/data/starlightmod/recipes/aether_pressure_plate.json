@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "## "
+  ],
+  "key": {
+    "#": {
+      "item": "starlightmod:aether_raw"
+    }
+  },
+  "result": {
+    "item": "starlightmod:aether_pressure_plate"
+  }
+}
